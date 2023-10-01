@@ -47,3 +47,6 @@ b = int(input())
 s = (a * b) / 2
 print (s)
 
+print ('hello' + ' ' + 'world')
+print('hello', 'world', 'fuck', 'me', sep=" ")
+
