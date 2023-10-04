@@ -1,12 +1,17 @@
-#Индекс массы тела: программа принимает
-#на вход вес пользователя в килограммах
-#и рост в сантиметрах.
-#Посчитать индекс массы тела
-#пользователя, записать его в
-#переменную и вывести на экран.
+month = str(input('enter the name of the month:'))
+month = month.lower()
+if month in ['december', 'january', 'febrary']:
+    season = 'winter'
+elif month in ['september', 'october', 'november']:
+    season = 'autumn'
+elif month in ['june', 'july', 'autumn']:
+    season = 'summer'
+elif month in ['mai', 'april', 'mars']:
+    season = 'spring'
+else:
+    season = 'unknown' #непредусмотренный случай
 
-print ('Введите свой вес в килограммах: ')
-ves = int(input())
-print ('Введите свой рост в сантиметрах: ')
-rost = int(input())
-print ('Индекс массы вашего тела: ', ves / ((rost / 100) **2) )
+if season != 'unknown':
+    print(f'The season for {month} is {season}')
+else:
+    print(f'Error, {month} is not a month')
