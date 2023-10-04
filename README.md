@@ -14,7 +14,7 @@ There is also some things I can assure you with. Here is the table with things I
 |how to create folders in reposytory | not yet ^^ |
 |write in eng without mistakes | ~~no~~ of curese yes |
 
-![To prove my point](https://ru.pinterest.com/pin/728598045974500152/](https://i.pinimg.com/originals/8d/9c/8c/8d9c8c368fbca706f1deb267f07bfee8.gif)
+![To prove my point](https://i.pinimg.com/originals/8d/9c/8c/8d9c8c368fbca706f1deb267f07bfee8.gif)
 
 `print ("hello there")`
 
