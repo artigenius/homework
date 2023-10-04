@@ -15,6 +15,7 @@ There is also some things I can assure you with. Here is the table with things I
 |write in eng without mistakes | ~~no~~ of curese yes |
 
 Here you may enjoy my fav pic, just because i can :)
+
 ![To prove my point](https://i.pinimg.com/originals/8d/9c/8c/8d9c8c368fbca706f1deb267f07bfee8.gif)
 
 `print ("hello there")`
