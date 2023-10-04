@@ -11,8 +11,10 @@ There is also some things I can assure you with. Here is the table with things I
 |the thing        | do i know it?   |
 |-----------------|-----------------|
 |how to fill up the README file   | i guess yes (?) |
+|how to create folders in reposytory | not yet ^^ |
+|write in eng without mistakes | nou |
 
-![To prove my point](http://example.com/](https://ru.pinterest.com/pin/728598045974500152/ "My bf")
+![To prove my point](https://ru.pinterest.com/pin/728598045974500152/)
 
 *курсив*
 **жирный текст**
