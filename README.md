@@ -3,7 +3,7 @@ Hi! Welcome to my homework reposytory ^^
 I'm working hard on making this looks *better* than it is. It takes some time, but don't need to worry, please wait patiently. To make your waiting time feel like a glimpse, try watching [this video](https://www.youtube.com/watch?v=Jvyku3Q81oc&list=PLzIbTmX5fP4zyXMwWXiBWc4jlu9e9MrrJ&index=1).
 
 This reposytory was mostly inspired by Captain Jack Sparrow words:
-> The problem is not the proble. The problem is your attitude about the problem. *Do you understand?*
+> The problem is not the problem. The problem is your attitude about the problem. *Do you understand?*
 
 I deffinetly do, so, the problem of not yet being able to stack all my files in different folders does not bother me that much. **Just you wait, just you wait...**
 
