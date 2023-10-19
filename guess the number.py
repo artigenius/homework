@@ -9,8 +9,7 @@ while number != target_number:
     k += 1
     if number < target_number:
         print('try higher')
-    if number > target_number:
+    elif number > target_number:
         print('try lower')
-    if number == target_number:
-        print(f'yes, you guessed right! it was {target_number}\nnumber of your tries: {k}')
-        break
+    else number == target_number:
+        print(f'yes, you guessed right! it was {target_number}\nnumber of your tries: {k}'
