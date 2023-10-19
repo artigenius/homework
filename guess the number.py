@@ -1,5 +1,6 @@
 # guess the number
 import random
+
 target_number = random.randint(1, 100)
 number = 0
 k = 0
@@ -11,7 +12,5 @@ while number != target_number:
     if number > target_number:
         print('try lower')
     if number == target_number:
+        print(f'yes, you guessed right! it was {target_number}\nnumber of your tries: {k}')
         break
-if number == target_number:
-        print(f'yes, you guessed right! it was {target_number}\n'
-          f'number of your tries: {k}')
